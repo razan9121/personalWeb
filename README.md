@@ -14,7 +14,7 @@ The website consists of four main pages:
 
 ## Technologies Used
 
-### HTML: For structuring the content.
-### CSS: For styling the website.
-### JavaScript: For adding interactivity and dynamic content.
-### GitHub Pages: For hosting the project.
+- **HTML**: For structuring the content.
+- **CSS**: For styling the website.
+- **JavaScript**: For adding interactivity and dynamic content.
+- **GitHub Pages**: For hosting the project.
